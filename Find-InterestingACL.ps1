@@ -1,5 +1,3 @@
-What does the below code do?
-
 function Find-InterestingDomainAcl {
 <#
 .SYNOPSIS
